@@ -3,7 +3,7 @@
 
 ![](Readme%20Screendshots/pokemonbot.png)
 
-I love playing **Pokemon Go**. So, I develop this Bot to help me playing the game on the outside.
+I love playing **Pokemon Go**. So, I developed this Bot to help me playing the game on the outside.
 
 
 # Search Command
@@ -18,5 +18,9 @@ _Image: The result of searcheding Groudon_
 
 ![](Readme%20Screendshots/search_giratina.png)
 _Image: The result of searcheding Giratina Altered_
+
+![](Readme%20Screendshots/search_ch.png)
+_Image: "ch" matches the prefix of charizard and some other poekmons_
+
 
 
