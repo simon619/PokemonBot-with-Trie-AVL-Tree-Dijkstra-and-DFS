@@ -34,7 +34,7 @@ When the program starts running, at first the **Pokemon JSON** data gets fetched
 
 # Shortest Path Command
 
-The **!shortest_path [arg1] [arg2]** commands shows the shortest path between two loactions. The location information also gets stored in **Trie**. Just like **search** command, **Shortest Path** command also checks the existence of the location information. **!path [arg]** command shows all location information relative to given argument.
+The **!shortest_path [arg1] [arg2]** commands shows the shortest path between two loactions. The location information also gets stored in **Trie**. Just like **search** command, **Shortest Path** command also checks the existence of the location information.
 
 ![](Readme%20Screendshots/shortest_path_dhor_bapt.png)
 _Image: Shortest Path between Dhoratana and Baptist Church_
@@ -45,6 +45,10 @@ _Image: Dhoratana exists in the program but "bapt" does not_
 ![](Readme%20Screendshots/shortest_path_neither_exits.png)
 _Image: Neither "dhor" or "bapt" exists in the program_
 
+# Path Command
+
+**!path [arg]** command shows all location information relative to given argument.
+
 ![](Readme%20Screendshots/path_baptist_church.png)
 _Image: Path information relative to Baptist Church_
 
@@ -54,6 +58,13 @@ _Image: No location named "ba" exists in the program_
 # How It Is Happening?
 
 After verifying the existence on Point A and Point B. The bot send data to the **Dijkstra Algorithm**. The Algorithm sends the shortest path result to that bot. In the programm the **Priority Queue** is used to increase the speed of the algorithm.
+
+# Areas Command
+
+**!areas** command shows all the names of the location that ares stored in the program.
+
+![](Readme%20Screendshots/areas.png)
+_Image: All area names_
 
 # Calling
 
