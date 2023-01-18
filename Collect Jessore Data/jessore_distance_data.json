@@ -1,0 +1,462 @@
+[
+  {
+    "source": "palbari",
+    "destination": "baptist_church",
+    "distance": "1600"
+  },
+  {
+    "source": "baptist_church",
+    "destination": "palbari",
+    "distance": "1600"
+  },
+  {
+    "source": "baptist_church",
+    "destination": "arabpur",
+    "distance": "900"
+  },
+  {
+    "source": "arabpur",
+    "destination": "baptist_church",
+    "distance": "900"
+  },
+  {
+    "source": "palbari",
+    "destination": "arabpur",
+    "distance": "1400"
+  },
+  {
+    "source": "arabpur",
+    "destination": "palbari",
+    "distance": "1400"
+  },
+  {
+    "source": "arabpur",
+    "destination": "bypass",
+    "distance": "2800"
+  },
+  {
+    "source": "bypass",
+    "destination": "arabpur",
+    "distance": "2800"
+  },
+  {
+    "source": "dormotala",
+    "destination": "arabpur",
+    "distance": "800"
+  },
+  {
+    "source": "arabpur",
+    "destination": "dormotala",
+    "distance": "800"
+  },
+  {
+    "source": "wapda_garage",
+    "destination": "dormotala",
+    "distance": "450"
+  },
+  {
+    "source": "dormotala",
+    "destination": "wapda_garage",
+    "distance": "450"
+  },
+  {
+    "source": "wapda_garage",
+    "destination": "sacred_heart",
+    "distance": "240"
+  },
+  {
+    "source": "sacred_heart",
+    "destination": "wapda_garage",
+    "distance": "240"
+  },
+  {
+    "source": "wapda_garage",
+    "destination": "khorki_mor",
+    "distance": "260"
+  },
+  {
+    "source": "khorki_mor",
+    "destination": "wapda_garage",
+    "distance": "260"
+  },
+  {
+    "source": "baptist_church",
+    "destination": "chuadanga",
+    "distance": "260"
+  },
+  {
+    "source": "chuadanga",
+    "destination": "baptist_church",
+    "distance": "260"
+  },
+  {
+    "source": "sacred_heart",
+    "destination": "wapda_office",
+    "distance": "250"
+  },
+  {
+    "source": "wapda_office",
+    "destination": "sacred_heart",
+    "distance": "250"
+  },
+  {
+    "source": "chuadanga",
+    "destination": "wapda_office",
+    "distance": "350"
+  },
+  {
+    "source": "wapda_office",
+    "destination": "chuadanga",
+    "distance": "350"
+  },
+  {
+    "source": "wapda_office",
+    "destination": "gym",
+    "distance": "400"
+  },
+  {
+    "source": "gym",
+    "destination": "wapda_office",
+    "distance": "400"
+  },
+  {
+    "source": "gym",
+    "destination": "asad_gate",
+    "distance": "260"
+  },
+  {
+    "source": "asad_gate",
+    "destination": "gym",
+    "distance": "260"
+  },
+  {
+    "source": "asad_gate",
+    "destination": "mmc_mosque",
+    "distance": "300"
+  },
+  {
+    "source": "mmc_mosque",
+    "destination": "asad_gate",
+    "distance": "300"
+  },
+  {
+    "source": "khorki_mor",
+    "destination": "mmc_mosque",
+    "distance": "250"
+  },
+  {
+    "source": "mmc_mosque",
+    "destination": "khorki_mor",
+    "distance": "250"
+  },
+  {
+    "source": "mm_college",
+    "destination": "mmc_mosque",
+    "distance": "290"
+  },
+  {
+    "source": "mmc_mosque",
+    "destination": "mm_college",
+    "distance": "290"
+  },
+  {
+    "source": "asad_gate",
+    "destination": "mm_college",
+    "distance": "190"
+  },
+  {
+    "source": "mm_college",
+    "destination": "asad_gate",
+    "distance": "190"
+  },
+  {
+    "source": "khorki_mor",
+    "destination": "khorki_cemetary",
+    "distance": "300"
+  },
+  {
+    "source": "khorki_cemetary",
+    "destination": "khorki_mor",
+    "distance": "300"
+  },
+  {
+    "source": "khorki_cemetary",
+    "destination": "mmc_dokkingate",
+    "distance": "450"
+  },
+  {
+    "source": "mmc_dokkingate",
+    "destination": "khorki_cemetary",
+    "distance": "450"
+  },
+  {
+    "source": "mm_college",
+    "destination": "mmc_dokkingate",
+    "distance": "100"
+  },
+  {
+    "source": "mmc_dokkingate",
+    "destination": "mm_college",
+    "distance": "100"
+  },
+  {
+    "source": "wapda_office",
+    "destination": "cybersecurity",
+    "distance": "280"
+  },
+  {
+    "source": "cybersecurity",
+    "destination": "wapda_office",
+    "distance": "280"
+  },
+  {
+    "source": "chuadanga",
+    "destination": "cybersecurity",
+    "distance": "500"
+  },
+  {
+    "source": "cybersecurity",
+    "destination": "chuadanga",
+    "distance": "500"
+  },
+  {
+    "source": "asad_gate",
+    "destination": "shilpokola",
+    "distance": "450"
+  },
+  {
+    "source": "shilpokola",
+    "destination": "asad_gate",
+    "distance": "450"
+  },
+  {
+    "source": "cybersecurity",
+    "destination": "shilpokola",
+    "distance": "350"
+  },
+  {
+    "source": "shilpokola",
+    "destination": "cybersecurity",
+    "distance": "350"
+  },
+  {
+    "source": "christ_church",
+    "destination": "cybersecurity",
+    "distance": "170"
+  },
+  {
+    "source": "cybersecurity",
+    "destination": "christ_church",
+    "distance": "170"
+  },
+  {
+    "source": "chuadanga",
+    "destination": "christ_church",
+    "distance": "600"
+  },
+  {
+    "source": "christ_church",
+    "destination": "chuadanga",
+    "distance": "600"
+  },
+  {
+    "source": "shilpokola",
+    "destination": "christ_church",
+    "distance": "300"
+  },
+  {
+    "source": "christ_church",
+    "destination": "shilpokola",
+    "distance": "300"
+  },
+  {
+    "source": "christ_church",
+    "destination": "dhoratana",
+    "distance": "300"
+  },
+  {
+    "source": "dhoratana",
+    "destination": "christ_church",
+    "distance": "300"
+  },
+  {
+    "source": "shilpokola",
+    "destination": "zero_point",
+    "distance": "140"
+  },
+  {
+    "source": "zero_point",
+    "destination": "shilpokola",
+    "distance": "140"
+  },
+  {
+    "source": "dhoratana",
+    "destination": "zero_point",
+    "distance": "350"
+  },
+  {
+    "source": "zero_point",
+    "destination": "dhoratana",
+    "distance": "350"
+  },
+  {
+    "source": "zero_point",
+    "destination": "zilla_school",
+    "distance": "550"
+  },
+  {
+    "source": "zilla_school",
+    "destination": "zero_point",
+    "distance": "550"
+  },
+  {
+    "source": "zilla_school",
+    "destination": "mmc_dokkingate",
+    "distance": "400"
+  },
+  {
+    "source": "mmc_dokkingate",
+    "destination": "zilla_school",
+    "distance": "400"
+  },
+  {
+    "source": "dhoratana",
+    "destination": "citra_mor",
+    "distance": "180"
+  },
+  {
+    "source": "citra_mor",
+    "destination": "dhoratana",
+    "distance": "180"
+  },
+  {
+    "source": "citra_mor",
+    "destination": "hotel_hassan",
+    "distance": "190"
+  },
+  {
+    "source": "hotel_hassan",
+    "destination": "citra_mor",
+    "distance": "190"
+  },
+  {
+    "source": "zero_point",
+    "destination": "hotel_hassan",
+    "distance": "300"
+  },
+  {
+    "source": "hotel_hassan",
+    "destination": "zero_point",
+    "distance": "300"
+  },
+  {
+    "source": "hotel_hassan",
+    "destination": "ad_din",
+    "distance": "300"
+  },
+  {
+    "source": "ad_din",
+    "destination": "hotel_hassan",
+    "distance": "300"
+  },
+  {
+    "source": "citra_mor",
+    "destination": "eden_market",
+    "distance": "230"
+  },
+  {
+    "source": "eden_market",
+    "destination": "citra_mor",
+    "distance": "230"
+  },
+  {
+    "source": "eden_market",
+    "destination": "ad_din",
+    "distance": "300"
+  },
+  {
+    "source": "ad_din",
+    "destination": "eden_market",
+    "distance": "300"
+  },
+  {
+    "source": "zilla_school",
+    "destination": "pti",
+    "distance": "300"
+  },
+  {
+    "source": "pti",
+    "destination": "zilla_school",
+    "distance": "300"
+  },
+  {
+    "source": "pti",
+    "destination": "food_storage",
+    "distance": "300"
+  },
+  {
+    "source": "food_storage",
+    "destination": "pti",
+    "distance": "300"
+  },
+  {
+    "source": "food_storage",
+    "destination": "char_khamba",
+    "distance": "290"
+  },
+  {
+    "source": "char_khamba",
+    "destination": "food_storage",
+    "distance": "290"
+  },
+  {
+    "source": "char_khamba",
+    "destination": "ad_din",
+    "distance": "350"
+  },
+  {
+    "source": "ad_din",
+    "destination": "char_khamba",
+    "distance": "350"
+  },
+  {
+    "source": "eden_market",
+    "destination": "bejpara_mondir",
+    "distance": "650"
+  },
+  {
+    "source": "bejpara_mondir",
+    "destination": "eden_market",
+    "distance": "650"
+  },
+  {
+    "source": "bejpara_mondir",
+    "destination": "ad_din",
+    "distance": "400"
+  },
+  {
+    "source": "ad_din",
+    "destination": "bejpara_mondir",
+    "distance": "400"
+  },
+  {
+    "source": "char_khamba",
+    "destination": "bejpara_mondir",
+    "distance": "550"
+  },
+  {
+    "source": "bejpara_mondir",
+    "destination": "char_khamba",
+    "distance": "550"
+  },
+  {
+    "source": "eden_market",
+    "destination": "bcmc_college",
+    "distance": "1600"
+  },
+  {
+    "source": "bcmc_college",
+    "destination": "eden_market",
+    "distance": "1600"
+  }
+]
