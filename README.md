@@ -11,16 +11,16 @@ I love playing **Pokemon Go**. So, I developed this Bot to help me playing the g
 The **Search Command** works as a search engine of the system. **!seach [arg]** will bring all the searched Pokemon infomation on the discord output interface. If the argument does match with any name of the Pokemons that are stored in the data structure, the bot starts to match prefix of name of Pokemons with the gives argument. Later it shows the names of the Pokemons that matched with the prefix. If even the prefix does not match, the Bot simply shows **No Result Found** message.
 
 ![](Readme%20Screendshots/search_charizard.png)
-_Image: The result of searcheding Charizard_
+_Image: The result of searching Charizard_
 
 ![](Readme%20Screendshots/search_groudon.png)
-_Image: The result of searcheding Groudon_
+_Image: The result of searching Groudon_
 
 ![](Readme%20Screendshots/search_yveltal.png)
-_Image: The result of searcheding Yveltal_
+_Image: The result of searching Yveltal_
 
 ![](Readme%20Screendshots/search_giratina.png)
-_Image: The result of searcheding Giratina Altered_
+_Image: The result of searching Giratina Altered_
 
 ![](Readme%20Screendshots/search_ch.png)
 _Image: "ch" matches the prefix of charizard and some other poekmons_
@@ -34,7 +34,7 @@ When the program starts running, at first the **Pokemon JSON** data gets fetched
 
 # Shortest Path Command
 --------------------------------------------
-The **!shortest_path [arg1] [arg2]** commands shows the shortest path between two loactions. The location information also gets stored in **Trie**. Just like **search** command, **Shortest Path** command also checks the existence of the loaction information. **!path [arg]** command shows all location information relative to given argument.
+The **!shortest_path [arg1] [arg2]** commands shows the shortest path between two loactions. The location information also gets stored in **Trie**. Just like **search** command, **Shortest Path** command also checks the existence of the location information. **!path [arg]** command shows all location information relative to given argument.
 
 ![](Readme%20Screendshots/shortest_path_dhor_bapt.png)
 _Image: Shortest Path between Dhoratana and Baptist Church_
