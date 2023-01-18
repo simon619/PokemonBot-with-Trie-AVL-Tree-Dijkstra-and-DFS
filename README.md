@@ -1,6 +1,6 @@
-# PokemonBot-with-Trie-AVL-Tree-Dijkstra-and-DFS
+**PokemonBot-with-Trie-AVL-Tree-Dijkstra-and-DFS**
 # PokemonBotv3
-
+------------------------------------
 ![](Readme%20Screendshots/pokemonbot.png)
 
 I love playing **Pokemon Go**. So, I developed this Bot to help me playing the game on the outside.
@@ -72,6 +72,13 @@ _Image: The HTML file that contains the map and Earthquake Data_
 
 ![](Readme%20Screendshots/map.png)
 _Image: The HTML file opened from a browser_
+
+#Help Command:
+--------------------------
+It basically works as help center of the Bot.
+
+![](Readme%20Screendshots/help.png)
+_Image: The help command_
 
 
 
