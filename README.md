@@ -83,7 +83,7 @@ _Image: The HTML file that contains the map and Earthquake Data_
 ![](Readme%20Screendshots/map.png)
 _Image: The HTML file opened from a browser_
 
-#Help Command:
+# Help Command:
 
 It basically works as help center of the Bot.
 
